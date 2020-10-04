@@ -1,4 +1,10 @@
+
+    /** This clas creates an app that displays messages.*/
 public class Notes{
+    
+    /** 
+     * @param args
+     */
     public static void main(String[] args) {
         
         // equivalent assignment operators
