@@ -1,9 +1,7 @@
 public class Notes{
     public static void main(String[] args) {
         
-        int value;
-        value = 5;
-        System.out.print("The value is ");
-        System.out.println(value);
+        // string concantenation operator
+        System.out.println("This is " + "one string.");
     }
 }
