@@ -4,5 +4,6 @@ public class Notes{
         // THE PRINT AND PRINTLN METHODS
         System.out.print("Hello World!");
         System.out.print("Hello Again, but notice no space.");
+        System.out.print("Hi, no space");
     }
 }
