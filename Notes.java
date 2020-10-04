@@ -1,16 +1,22 @@
 public class Notes{
     public static void main(String[] args) {
         
-        // Math class
+        // equivalent assignment operators
+        double x = 0;
+        x = x + 4;
+        x += 4;
 
-        double result,x,sqrt;
-        result = Math.pow(4.0, 2.0);
-        x = 3 * Math.pow(6.0, 3.0);
-        sqrt = Math.sqrt(9.0);
+        x = x - 3;
+        x -= 3;
 
+        x = x * 10;
+        x *= 10;
 
-        System.out.println("result:\t" + result);
-        System.out.println("x:\t" + x);
-        System.out.println("sqrt:\t" + sqrt);
+        x = x / 2;
+        x /= 2;
+
+        x = x % 4;
+        x %= 4;
+
     }
 }
