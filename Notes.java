@@ -1,8 +1,10 @@
 public class Notes{
     public static void main(String[] args) {
         
-        // The println() method
-        System.out.println("Hello");
-        System.out.println("world");
+        // use escape sequences:
+        System.out.print("This is on\ntwo lines");
+        System.out.print("I will tab:\t this");
+        System.out.print("I will be able to put the cursor here:\b");
+        System.out.print("");
     }
 }
