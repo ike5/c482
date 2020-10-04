@@ -5,6 +5,6 @@ public class Notes{
 
         // Strongly typed, so will cause error
         float number;
-        number = 43.54;
+        number = 43.54F;
     }
 }
