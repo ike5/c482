@@ -1,11 +1,10 @@
 public class Notes{
     public static void main(String[] args) {
         
-        // char data type
-        // using unicode
+        // integer division
 
-        char letter;
-        letter = 65;
-        System.out.print(letter);
+        // remainder discarded, result is original type, but without remainder
+        double number; number = 5/2;
+        System.out.print(number);
     }
 }
